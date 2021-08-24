@@ -32,6 +32,8 @@ Objetivos Específicos
 
 ![](https://github.com/Anabeltoapanta/TAREA-7/blob/main/marco%20teorico%2013.jpg)
 
+![image](https://user-images.githubusercontent.com/85134094/130634051-6157aee7-fbbe-4bf4-bbca-83268471eee5.png)
+
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 **13-2 Voltaje inducido e inducción**
@@ -211,8 +213,6 @@ b) Para cada circuito de la figura 14-37, determine iS y vL inmediatamente despu
  
 ![image](https://user-images.githubusercontent.com/85134094/130540020-e762a302-b97c-4f96-8abf-8b08f9233a46.png)
 
-![image](https://user-images.githubusercontent.com/85134094/130633964-7fe0d66e-9efc-45d3-83b1-6b7a8da11b6a.png)
-
 **14-2 Transitorio de corriente creciente**
 
 5.El interruptor de la figura 14-39 está cerrado en t=0 s.
@@ -321,21 +321,18 @@ inductor, 2.5 ms después que el interruptor se ha cerrado
 
 **4.VIDEO**
 
-Link de video:
-
-
+https://youtu.be/sSs1hTEd9I8
 
 **5.CONCLUSIONES**
 
+* Cuando hablamos de circuitos donde interviene Capacitores estos funcionan de diferente manera y todo esto se resuelve de acuerdo a como este conectado el circuito sea en serie o paralelo, si el circuito esta en serie la capacitancia total se calcula con el inverso de la suma de los inversos de cada capacitor en cambio si es un circuito en paralelo estas capacitancias simplemente se restan.
+
+* Se recomienda resolver circuitos con capacitores muy cuidadosamente debido a que tienden a confundirse con la resolucion de los circuitos con resistencia.
+
+* Para los circuitos con bonbinas o inductores a estos elementos se les considera como resistencias por lo cual la resolucion de circuitos en paralelo y en serie se lo hace igual que los circuitos con resistencias.
+
+* Cuando nos encontremos con circuitos donde esten conectados inductores, capacitancias y resistencias se recomienda reducir el circuito a lo mas simple posible y aplicar teoremas antes vistos para calcular violtajes e intensidades en cada uno de los elementos.
 
 **6.BIBLIOGRAFÍA**
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
-
-
-
-
-
-
-
-
