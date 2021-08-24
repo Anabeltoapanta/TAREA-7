@@ -16,6 +16,17 @@ Objetivo General
 
 Objetivos Específicos
 
+* Distinguir qué es un inductor y su operación dentro de un circuito
+
+* Explicar la ley de Faraday y la ley de Lenz mediante el desarollo de ejercicios.
+
+* Calcular la inductancia tanto en circuitos en serie como en paralelos
+
+* Analizar los efectos de los transitorios en los circuitos RL
+
+* Calcular los transitorios de voltaje y corriente en circuitos RL
+
+* Resolver problemas de transitorios RL en circuitos complejos con técnicas de simplificación de circuitos.
 
 **2.MARCO TEÓRICO**
 
