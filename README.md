@@ -125,6 +125,20 @@ SERIE Y PARALELO
 
 ![image](https://user-images.githubusercontent.com/85134094/130539772-b0d8a258-2433-4822-b1ca-90ca592a48e4.png)
 
+25. Para los circuitos de la figura 13-40, determine L3 y L4 
+
+![image](https://user-images.githubusercontent.com/85134094/130565594-699bdd9f-6731-42ad-84c2-cdf3b1e79ada.png)
+
+Figura a
+
+![image](https://user-images.githubusercontent.com/85134094/130565622-ac95c681-ca3f-482e-ad74-2fc4bad80eef.png)
+
+![image](https://user-images.githubusercontent.com/85134094/130565634-f30e5028-8646-4895-a7b4-7dfcd2dbcd68.png)
+
+Para la figura b
+
+![image](https://user-images.githubusercontent.com/85134094/130565653-289e6ebf-6ec2-4639-aad1-988b552d0222.png)
+
 27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que
 se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia
 y como está conectada?
@@ -134,20 +148,6 @@ y como está conectada?
 DESARROLLO
 
 ![image](https://user-images.githubusercontent.com/85134094/130539844-b7efd553-34e2-4855-9168-efe4c1290b3f.png)
-
-25. Para los circuitos de la figura 13-40, determine L3 y L4 
-
-![image](https://user-images.githubusercontent.com/85134094/130564379-83260a53-ee9d-41af-ac9b-b1006b5315ba.png)
-
-Figura a
-
-![image](https://user-images.githubusercontent.com/85134094/130564404-b2317d67-b660-4f1e-8f5c-59217d2235c4.png)
-
-![image](https://user-images.githubusercontent.com/85134094/130564412-6105f63e-9cbc-4559-afa9-315ac90e7112.png)
-
-Para la figura b
-
-![image](https://user-images.githubusercontent.com/85134094/130564434-70c41fa9-0122-43a7-9bd9-5722646b963b.png)
 
 31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple. 
 
