@@ -19,7 +19,7 @@ Objetivos Específicos
 
 **2.MARCO TEÓRICO**
 
-
+![](https://github.com/Anabeltoapanta/TAREA-7/blob/main/marco%20teorico%2013.jpg)
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
