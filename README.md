@@ -13,6 +13,8 @@ AUTORES :
 
 Objetivo General
 
+* Analizar el comportamiento de inductores en distintos circuitos propuestos ya sean en paralelo como en serie además , analizar la energia almacenada por una inductancia.
+* Definir conceptos de transitores inductivos  y calcular su correspondiente voltaje e intesidad de corriente mediante ejercicios de aplicación.
 
 Objetivos Específicos
 
