@@ -209,7 +209,9 @@ b) Para cada circuito de la figura 14-37, determine iS y vL inmediatamente despu
 
 3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
  
-![image](https://user-images.githubusercontent.com/85134094/130540020-e762a302-b97c-4f96-8abf-8b08f9233a46.png)
+![image](https://user-images.githubusercontent.com/85134094/130540020-e762a302-b97c-4f96-8abf-8b08f9233a46.png
+
+![image](https://user-images.githubusercontent.com/85134094/130633964-7fe0d66e-9efc-45d3-83b1-6b7a8da11b6a.png)
 
 **14-2 Transitorio de corriente creciente**
 
