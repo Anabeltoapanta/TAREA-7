@@ -46,6 +46,10 @@ Objetivos Específicos
 ¿Cual es el voltaje inducido si el mismo cambio de flujo ocurre en 0.01 s?
  
  ![image](https://user-images.githubusercontent.com/85134094/130539382-d008753a-a7db-45f3-a8aa-bf667c44befc.png) 
+ 
+ 5.La corriente en un inductor de 75 mH (figura 13-30) cambia uniformemente por 200 µA en 0.1 ms. ¿Cuál es el voltaje en él?
+ 
+ ![image](https://user-images.githubusercontent.com/85134094/130629332-2d619471-bfca-407d-bd21-ed39f96d571b.png)
 
 **13.3 Inductancia automática**
 
@@ -57,6 +61,12 @@ Objetivos Específicos
 l= 20 cm, N = 200 vueltas, y d=2 cm.
  
 ![image](https://user-images.githubusercontent.com/85134094/130539429-acae56db-5af3-45f6-9269-30996f95429e.png)
+
+11.El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI≅Ha la. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a Nϕ. Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es:
+
+![image](https://user-images.githubusercontent.com/85134094/130629559-8831dc18-d2eb-42da-84ec-ace8fcc3931f.png)
+
+![image](https://user-images.githubusercontent.com/85134094/130629642-046de31f-fee5-4ebb-8311-279f9b6aa0d0.png)
 
 **13-4 Cálculo del voltaje inducido**
 
@@ -79,6 +89,10 @@ c. ¿Cuál es la corriente en t = 10 s?
 ![image](https://user-images.githubusercontent.com/85134094/130539515-b694b267-d093-4395-8a91-effd86075c10.png)
 
 **13-5 Inductancias en serie y en paralelo**
+
+17.¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en serie?
+
+![image](https://user-images.githubusercontent.com/85134094/130629820-66d5e16c-0b1a-4288-904a-a0281af396fb.png)
 
 19. Repita el problema 17 si las inductancias están conectadas en paralelo.
 ¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en serie?
@@ -125,6 +139,10 @@ SERIE Y PARALELO
 
 ![image](https://user-images.githubusercontent.com/85134094/130539772-b0d8a258-2433-4822-b1ca-90ca592a48e4.png)
 
+23. Una inductancia de 30 uH está conectada en serie con una inductancia de 60 uH y una inductancia de 10 uH está conectada en paralelo con la combinacion en serie.  ¿Qué valor tiene LT?
+
+![image](https://user-images.githubusercontent.com/85134094/130630215-b101eaea-9c42-49b8-adce-e5ae76822557.png)
+
 25. Para los circuitos de la figura 13-40, determine L3 y L4 
 
 ![image](https://user-images.githubusercontent.com/85134094/130565594-699bdd9f-6731-42ad-84c2-cdf3b1e79ada.png)
@@ -149,6 +167,10 @@ DESARROLLO
 
 ![image](https://user-images.githubusercontent.com/85134094/130539844-b7efd553-34e2-4855-9168-efe4c1290b3f.png)
 
+29. Inductancias de 8, 12 y 1,2H están conectadas en un circuito. Si LT = 6H ¿Cómo están conectados los indcutores?
+
+![image](https://user-images.githubusercontent.com/85134094/130630897-ae0b8b38-81b8-43c5-ae68-125d8ba82bdd.png)
+
 31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple. 
 
 ![image](https://user-images.githubusercontent.com/85134094/130564666-00a9a8ec-0ed3-4802-a3f3-d8053adbf705.png)
@@ -166,6 +188,11 @@ DESARROLLO
  
 ![image](https://user-images.githubusercontent.com/85134094/130539947-7df82054-be11-46b3-b05f-8f274947a5b2.png)
 
+35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
+
+![image](https://user-images.githubusercontent.com/85134094/130631127-e5039c19-94c9-406e-9738-b93badcf2710.png)
+
+El circuito se encuentra abierto, esto puede ocurrir por una mala soldadura o malas conexiones.
 
 **Capitulo 14**
 
@@ -185,6 +212,10 @@ b) Para cada circuito de la figura 14-37, determine iS y vL inmediatamente despu
 ![image](https://user-images.githubusercontent.com/85134094/130540020-e762a302-b97c-4f96-8abf-8b08f9233a46.png)
 
 **14-2 Transitorio de corriente creciente**
+
+5.El interruptor de la figura 14-39 está cerrado en t=0 s.
+
+![image](https://user-images.githubusercontent.com/85134094/130631403-44da468f-4b66-41f8-83be-a87c04bb9db4.png)
 
 7. Repita el problema 5 para el circuito de la figura 14-41 con L =4 H
 
@@ -221,6 +252,10 @@ Cuando t=3.4ms
  
 ![image](https://user-images.githubusercontent.com/85134094/130540097-f1591cde-3371-4fd7-9466-f0ef5ab53dab.png)
 
+11.Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
+
+![image](https://user-images.githubusercontent.com/85134094/130631577-898afe81-f3fb-4097-882b-1df688b3267c.png)
+
 13. Para la figura 14-1(b), si vL=40e^2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
 
 ![image](https://user-images.githubusercontent.com/85134094/130565127-5bacded3-84d1-4bce-86cd-03380c83f130.png)
@@ -252,6 +287,10 @@ D)
 
 ![image](https://user-images.githubusercontent.com/85134094/130540226-aa270d58-35c5-4881-bfbb-aaeb099913cf.png)
 ![image](https://user-images.githubusercontent.com/85134094/130540240-46e9a8df-d05f-4cb0-9d37-7c1b9834ae82.png)
+
+17. Dado vL=2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t=20 ms.
+
+![image](https://user-images.githubusercontent.com/85134094/130631744-5c4a0aa0-115b-4dc0-8dae-3b7b9dbbc653.png)
 
 19. Para la figura 14-43, L=20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
 
