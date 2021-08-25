@@ -34,6 +34,9 @@ Objetivos Específicos
 
 ![](https://github.com/Anabeltoapanta/TAREA-7/blob/main/marco%20teorico%2013.jpg)
 
+![image](https://user-images.githubusercontent.com/85134094/130717925-f885ea80-9453-4fb3-808b-a81704757914.png)
+
+
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 **13-2 Voltaje inducido e inducción**
@@ -334,13 +337,15 @@ DESARROLLO
 
 ![image](https://user-images.githubusercontent.com/85134094/130635936-638e15e0-5ba6-4582-844d-631fcc3121fe.png)
 
-** 4.VIDEO **
+**4.VIDEO **
 
-Link de video:
-
-
+https://youtu.be/sSs1hTEd9I8
 
 **5.CONCLUSIONES**
+
+* Para resolver circuitos con capacitores se debe tomar en cuenta que si los elementos estan en paralelo estos se suman algebraicamente para obtener la capacitancia total y si estan en serie estos se resuelven por ls formula del inverso de la suma de los inversos de cada capacitancia, esto se debe tener cuidado ya que puede haber una confunsion con las formulas de los circuitos resistivos.
+
+* Las bobinas no son mas que simples cables enrollados alrededor de un nucleo por lo que se entiende que tiene pequeñas resistencias a lo largo de la lingitud del cable y es por eso que se a la inductancia se la toma como una resistencia y a su vez se pude utilizar las formulas para simplificar un circuito resistivo. 
 
 
 **6.BIBLIOGRAFÍA**
